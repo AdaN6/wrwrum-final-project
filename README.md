@@ -14,4 +14,4 @@ Frontend (this) &
 
 # Website
 
-Full Site Deployed at: https://resilient-hotteok-8d77d7.netlify.app/
+https://stellar-lollipop-8e6958.netlify.app/
